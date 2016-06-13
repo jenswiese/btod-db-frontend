@@ -1,0 +1,21 @@
+{
+  "name": "btod-db-frontend",
+  "homepage": "https://github.com/jenswiese/btod-db-frontend",
+  "authors": [
+    "Jens Wiese <jens@bouldering.theotherday.de>"
+  ],
+  "description": "Static frontend for BTOD climbing tracker",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
