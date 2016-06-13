@@ -1,0 +1,30 @@
+/* level labels */
+
+.label-white {
+    background-color: whitesmoke;
+}
+
+.label-yellow {
+    background-color: yellow;
+}
+
+.label-orange {
+    background-color: orange;
+}
+
+.label-red {
+    background-color: red;
+}
+
+.label-blue {
+    background-color: blue;
+}
+
+.label-green {
+    background-color: green;
+}
+
+/* fixed navbar padding */
+body {
+    padding-top: 70px;
+}
